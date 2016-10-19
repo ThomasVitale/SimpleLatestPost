@@ -8,6 +8,7 @@
  * Author URI: http://thomasvitale.com
  * Text Domain: simple-latest-post
  * Version: 1.0
+ * Licence: GPL3
  */
 
  class SimpleLatestPost extends WP_Widget {
